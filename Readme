@@ -1,0 +1,67 @@
+# Animated Card Opening
+
+An interactive **Animated Card Opening effect** built using **HTML, CSS, and JavaScript**.
+This project creates a smooth animation where a card opens when the user clicks or hovers over it. It can be used for greeting cards, invitations, product reveals, or interactive UI components.
+
+## ✨ Features
+
+* Smooth card opening animation
+* Responsive design
+* Lightweight and fast
+* Easy to customize
+* Works on all modern browsers
+
+## 🛠 Technologies Used
+
+* HTML5
+* CSS3 (Animations & Transitions)
+* JavaScript
+
+## 📂 Project Structure
+
+```
+animated-card/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## 🚀 How to Use
+
+1. Download or clone the repository.
+
+```
+git clone https://github.com/yourusername/animated-card.git
+```
+
+2. Open the project folder.
+
+3. Run **index.html** in your browser.
+
+## 🎨 Customization
+
+You can easily customize:
+
+* Card colors
+* Animation speed
+* Card size
+* Content inside the card
+
+Modify the **style.css** file to change the animation or design.
+
+## 📌 Example Use Cases
+
+* Digital greeting cards
+* Invitation cards
+* Product reveal cards
+* Portfolio UI components
+
+## 🤝 Contributing
+
+Contributions are welcome. Feel free to fork this repository and submit pull requests.
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
